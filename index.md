@@ -2,7 +2,4 @@
 layout: home
 ---
 
-# Behold a Heading
-so many heading
-## a smol heading
-i do love headings
+This is a site. It's pretty cool. I only kind of know what I'm doing, but I'm going to learn more.
